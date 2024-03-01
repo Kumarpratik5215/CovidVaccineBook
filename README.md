@@ -1,2 +1,2 @@
 # CovidVaccineBook
-Backend using Springboot
+Backend using Springboot of Java
